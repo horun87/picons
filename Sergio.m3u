@@ -1,0 +1,561 @@
+#EXTM3U
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TVE.png" tvg-id="LA 1 HD" ,LA 1 FHD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=3797&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TVE.png" tvg-id="LA 1 HD" ,LA 1 HD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=26087&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TVE.png" tvg-id="LA 1 HD" ,LA 1 HD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=355&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/LA2.png" tvg-id="La 2 HD" ,LA 2 FHD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=3846&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/LA2.png" tvg-id="La 2 HD" ,LA 2 HD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=421&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/LA2.png" tvg-id="La 2 HD" ,LA 2 HD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=466&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/A3.png" tvg-id="ANTENA 3 HD" ,ANTENA 3 FHD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=3790&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/A3.png" tvg-id="ANTENA 3 HD" ,ANTENA 3 HD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=348&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/C4.png" tvg-id="CUATRO HD" ,CUATRO FHD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=3793&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/C4.png" tvg-id="CUATRO HD" ,CUATRO HD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=351&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/T5.png" tvg-id="TELECINCO HD" ,TELECINCO FHD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=3814&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/T5.png" tvg-id="TELECINCO HD" ,TELECINCO HD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=374&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SEXTA.png" tvg-id="LA SEXTA HD" ,LA SEXTA FHD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=3798&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SEXTA.png" tvg-id="LA SEXTA HD" ,LA SEXTA HD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=356&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV3.png" tvg-id="#0 HD" ,#0 FHD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=3818&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV3.png" tvg-id="#0 HD" ,#0 HD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=378&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPSER.png" tvg-id="M. SERIES HD" ,MOVISTAR SERIES FHD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=3803&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPSER.png" tvg-id="M. SERIES HD" ,MOVISTAR SERIES HD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=362&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV2.png" tvg-id="M.Seriesmania HD" ,MOVISTAR SERIESMANIA FHD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=3809&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV2.png" tvg-id="M.Seriesmania HD" ,MOVISTAR SERIESMANIA HD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=368&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FOXGE.png" tvg-id="FOX HD" ,FOX FHD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=3795&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FOXGE.png" tvg-id="FOX HD" ,FOX HD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=353&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AXN.png" tvg-id="AXN HD" ,AXN FHD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=3791&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AXN.png" tvg-id="AXN HD" ,AXN FHD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=349&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TNT.png" tvg-id="TNT HD" ,TNT FHD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=3815&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TNT.png" tvg-id="TNT HD" ,TNT HD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=375&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PCM.png" tvg-id="COMEDYCENTRAL HD" ,COMEDY CENTRAL FHD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=3833&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PCM.png" tvg-id="COMEDYCENTRAL HD" ,COMEDY CENTRAL HD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=405&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CL13.png" tvg-id="CALLE 13 HD" ,CALLE 13 FHD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=3792&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CL13.png" tvg-id="CALLE 13 HD" ,CALLE 13 HD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=350&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/COSMO.png" tvg-id="COSMO HD" ,COSMO FHD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=3834&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/COSMO.png" tvg-id="COSMO HD" ,COSMO HD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=461&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/COSMO.png" tvg-id="COSMO HD" ,COSMO HD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=406&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AMC.png" tvg-id="AMC HD" ,AMC FHD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=3789&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AMC.png" tvg-id="AMC HD" ,AMC HD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=347&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FOXCR.png" tvg-id="FOX LIFE HD" ,FOX LIFE FHD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=3842&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FOXCR.png" tvg-id="FOX LIFE HD" ,FOX LIFE HD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=416&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SET.png" tvg-id="AXN WHITE HD" ,AXN WHITE FHD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=3821&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SET.png" tvg-id="AXN WHITE HD" ,AXN WHITE HD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=382&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SCI-FI.png" tvg-id="SYFY HD" ,SYFY FHD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=3812&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SCI-FI.png" tvg-id="SYFY HD" ,SYFY HD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=372&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MTV.png" tvg-id="MTV ESPAÑA" ,MTV HD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=447&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FDFIC.png" tvg-id="FDF" ,FDF HD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=415&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NEOX.png" tvg-id="NEOX" ,NEOX HD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=450&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NEOX.png" tvg-id="NEOX" ,NEOX SD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=3851&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ENERGY.png" tvg-id="ENERGY" ,Energy SD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=413&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ENERGY.png" tvg-id="ENERGY" ,Energy SD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=3840&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV1.png" tvg-id="M.ESTRENOS HD" ,MOVISTAR ESTRENOS FHD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=3805&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV1.png" tvg-id="M.ESTRENOS HD" ,MOVISTAR ESTRENOS FHD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=26064&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV1.png" tvg-id="M.ESTRENOS HD" ,MOVISTAR ESTRENOS HD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=364&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPXTRA.png" tvg-id="M.CineDocRoll" ,MOVISTAR CineDoc&Roll FHD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=3850&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPXTRA.png" tvg-id="M.CineDocRoll" ,MOVISTAR CineDoc&Roll HD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=437&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MDISNE.png" tvg-id="M. DISNEY" ,MOVISTAR DISNEY HD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=434&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MDISNE.png" tvg-id="M. DISNEY" ,MOVISTAR DISNEY SD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=3848&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png" tvg-id="M. ACCION HD" ,MOVISTAR ACCION FHD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=3799&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png" tvg-id="M. ACCION HD" ,MOVISTAR ACCION FHD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=26061&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png" tvg-id="M. ACCION HD" ,MOVISTAR ACCION HD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=358&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png" tvg-id="M.COMEDIA HD" ,MOVISTAR COMEDIA FHD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=3804&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png" tvg-id="M.COMEDIA HD" ,MOVISTAR COMEDIA FHD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=26062&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png" tvg-id="M.COMEDIA HD" ,MOVISTAR COMEDIA HD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=363&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png" tvg-id="M. DRAMA HD" ,MOVISTAR DRAMA FHD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=3801&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png" tvg-id="M. DRAMA HD" ,MOVISTAR DRAMA HD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=26063&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png" tvg-id="M. DRAMA HD" ,MOVISTAR DRAMA HD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=360&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png" tvg-id="M. DRAMA HD" ,MOVISTAR DRAMA HD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=460&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png" tvg-id="M. Cine Español" ,MOVISTAR CINE ESPAÑOL HD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=426&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png" tvg-id="M. Cine Español" ,MOVISTAR CINE ESPAÑOL SD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=3847&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TCM.png" tvg-id="TCM HD" ,TCM FHD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=3813&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TCM.png" tvg-id="TCM HD" ,TCM HD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=373&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HOLLYW.png" tvg-id="HOLLYWOOD HD" ,HOLLYWOOD FHD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=3796&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HOLLYW.png" tvg-id="HOLLYWOOD HD" ,HOLLYWOOD HD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=354&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SUNDAN.png" tvg-id="SUNDANCE TV" ,SUNDANCE TV HD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=456&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SUNDAN.png" tvg-id="SUNDANCE TV" ,SUNDANCE TV SD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=3856&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PARCH.png" tvg-id="PARAMOUNT" ,PARAMOUNT CHANNEL HD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=454&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PARCH.png" tvg-id="PARAMOUNT" ,PARAMOUNT CHANNEL SD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=3855&t=live&f=ts
+#EXTINF:0, tvg-logo="https://github.com/horun87/picons/blob/master/multideporte.png?raw=true" ,tvg-id="MULTIDEPORTE" ,MULTIDEPORTE
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=449&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/VAMOSD.png" tvg-id="#VAMOS HD" ,#VAMOS FHD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=3819&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/VAMOSD.png" tvg-id="#VAMOS HD" ,#VAMOS FHD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=26068&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/VAMOSD.png" tvg-id="#VAMOS HD" ,#VAMOS HD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=379&t=live&f=ts
+#EXTINF:0, tvg-logo="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/canales/00/10000896.png" tvg-id="LALIGATV BAR" ,LALIGA TV BAR FHD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=26065&t=live&f=ts
+#EXTINF:0, tvg-logo="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/canales/00/10000896.png" tvg-id="LALIGATV BAR" ,LALIGA TV BAR HD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=357&t=live&f=ts
+#EXTINF:0, tvg-logo="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/canales/00/10000896.png" tvg-id="LALIGA TV BAR 1" ,LALIGA TV BAR 1 SD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=423&t=live&f=ts
+#EXTINF:0, tvg-logo="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/canales/00/10000896.png" tvg-id="LALIGA TV BAR 1" ,LALIGA TV BAR 2 SD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=24931&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" tvg-id="M. LaLiga HD" ,M. LALIGA 4K
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=26142&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" tvg-id="M. LaLiga HD" ,M. LALIGA 2K
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=26141&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" tvg-id="M. LaLiga HD" ,M. LALIGA FHD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=26042&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" tvg-id="M. LaLiga HD" ,M. LALIGA FHD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=3849&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" tvg-id="M. LaLiga HD" ,M. LALIGA FHD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=435&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" tvg-id="M. LaLiga HD" ,M. LALIGA HD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=26046&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" tvg-id="M. LaLiga HD" ,M. LALIGA HD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=386&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG1.png" tvg-id="M. LaLiga 1 HD" ,M. LALIGA 1 
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=26043&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG1.png" tvg-id="M. LALIGA 1 HD" ,M. LALIGA 1
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247 949517&s=596252977222622&id=26047&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG1.png" tvg-id="M. LALIGA 1 HD" ,M. LALIGA 1
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=24929&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG2.png" tvg-id="M. LALIGA 2 HD" ,M. LALIGA 2
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=26048&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG2.png" tvg-id="M. LALIGA 2 HD" ,M. LALIGA 2
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=26045&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG2.png" tvg-id="M. LALIGA 2 HD" ,M. LALIGA 2
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=388&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" tvg-id="M.LCAMPEONES" ,M. LIGA DE CAMPEONES 4K
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=26140&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" tvg-id="M.LCAMPEONES" ,M. LIGA DE CAMPEONES FHD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=26067&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" tvg-id="M.LCAMPEONES" ,M. LIGA DE CAMPEONES FHD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=26078&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" tvg-id="M.LCAMPEONES" ,M. LIGA DE CAMPEONES FHD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=445&t=live&f=ts
+#EXTINF:0, tvg-logo="https://orangetv.orange.es/pc/api/rtv/v1/images/IMAGES/O/x_d896ad4950833a2ef9898f8fa.png" tvg-id="M.LCAMPEON1" ,M. LIGA DE CAMPEONES 1
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=438&t=live&f=ts
+#EXTINF:0, tvg-logo="https://orangetv.orange.es/pc/api/rtv/v1/images/IMAGES/O/x_d896ad4950833a2ef9898f8fa.png" tvg-id="M.LCAMPEON1" ,M. LIGA DE CAMPEONES 1
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=26079&t=live&f=ts
+#EXTINF:0, tvg-logo="https://orangetv.orange.es/pc/api/rtv/v1/images/IMAGES/O/x_38e6bd4e607c57e28720aad97.png" tvg-id="M.LCAMPEON2" ,M. LIGA DE CAMPEONES 2
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=439&t=live&f=ts
+#EXTINF:0, tvg-logo="https://orangetv.orange.es/pc/api/rtv/v1/images/IMAGES/O/x_38e6bd4e607c57e28720aad97.png" tvg-id="M.LCAMPEON2" ,M. LIGA DE CAMPEONES 2
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=26080&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" tvg-id="M. DEPORTES" ,M. DEPORTES FHD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=3800&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" tvg-id="M. DEPORTES" ,M. DEPORTES FHD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=26066&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" tvg-id="M. DEPORTES" ,M. DEPORTES HD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=359&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ARTHUR.png" tvg-id="M.DEPORTES 1 HD" ,M. DEPORTES 1 
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=3807&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ARTHUR.png" tvg-id="M.DEPORTES 1 HD" ,M. DEPORTES 1 
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=427&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ARTHUR.png" tvg-id="M.DEPORTES 1 HD" ,M. DEPORTES 1 
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=366&t=live&f=ts
+#EXTINF:0, tvg-logo="https://github.com/horun87/picons/blob/master/dazn-logo.jpg?raw=true" ,DAZN 1 ESPAÑOL (SOLO EVENTOS)
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=24923&t=live&f=ts
+#EXTINF:0, tvg-logo="https://github.com/horun87/picons/blob/master/dazn-logo.jpg?raw=true" ,DAZN 2 ESPAÑOL (SOLO EVENTOS)
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=24922&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" tvg-id="M.FORMULA1 HD" ,MOVISTAR FORMULA 1 FHD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=3806&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" tvg-id="M.FORMULA1 HD" ,MOVISTAR FORMULA 1 HD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=365&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF+.png" tvg-id="M. GOLF HD" ,MOVISTAR GOLF FHD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=361&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF+.png" tvg-id="M. GOLF HD" ,MOVISTAR GOLF FHD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=3802&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP.png" tvg-id="EUROSPORT1" ,EUROSPORT 1 FHD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=3794&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP.png" tvg-id="EUROSPORT1" ,EUROSPORT 1 HD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=352&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png" tvg-id="EUROSPORT 2" ,EUROSPORT 2 HD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=414&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png" tvg-id="EUROSPORT 2" ,EUROSPORT 2 HD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=459&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOL.png" tvg-id="GOL" ,GOL HD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=418&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOL.png" tvg-id="GOL" ,GOL SD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=3843&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TDEP.png" tvg-id="TELEDEPORTE" ,TELEDEPORTE HD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=457&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TDEP.png" tvg-id="TELEDEPORTE" ,TELEDEPORTE SD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=3857&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CAZPES.png" tvg-id="CAZAyPESCA HD" ,CAZA Y PESCA FHD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=3831&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CAZPES.png" tvg-id="CAZAyPESCA HD" ,CAZA Y PESCA HD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=402&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/IBERAL.png" tvg-id="IBERALIA TV" ,IBERALIA HD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=420&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/IBERAL.png" tvg-id="IBERALIA TV" ,IBERALIA SD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=3845&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CFERIA.png" tvg-id="TOROS HD" ,TOROS FHD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=3816&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CFERIA.png" tvg-id="TOROS HD" ,TOROS FHD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=26071&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CFERIA.png" tvg-id="TOROS HD" ,Toros HD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=376&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/REALM.png" tvg-id="R. MADRID TV" ,REAL MADRID TV FHD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=25867&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/REALM.png" tvg-id="R. MADRID TV" ,REAL MADRID TV HD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=455&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BARNA.png" tvg-id="BARCA TV" ,BARCA TV HD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=384&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BARNA.png" tvg-id="BARCA TV" ,BARCA TV SD 
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=3823&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGEO.png" tvg-id="NAT GEO HD" ,NATIONAL GEOGRAPHIC FHD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=370&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGEO.png" tvg-id="NAT GEO HD" ,NATIONAL GEOGRAPHIC FHD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=3810&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGEO.png" tvg-id="NAT GEO HD" ,NATIONAL GEOGRAPHIC FHD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=26070&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGW.png" tvg-id="NAT GEO WILD" ,NAT GEO WILD FHD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=3811&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGW.png" tvg-id="NAT GEO WILD" ,NAT GEO WILD FHD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=26069&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGW.png" tvg-id="NAT GEO WILD" ,NAT GEO WILD HD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=371&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HIST.png" tvg-id="HISTORIA" ,HISTORIA HD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=419&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HIST.png" tvg-id="HISTORIA" ,HISTORIA SD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=3844&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCR.png" tvg-id="DISCOVERY" ,DISCOVERY HD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=408&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCR.png" tvg-id="DISCOVERY" ,DISCOVERY SD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=3836&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ODISEA.png" tvg-id="CANAL ODISEA" ,CANAL ODISEA HD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=399&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ODISEA.png" tvg-id="CANAL ODISEA" ,CANAL ODISEA SD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=3829&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCRMAX.png" tvg-id="Discovery MAX" ,DMAX SD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=25857&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MEGA.png" tvg-id="Mega HD" ,MEGA SD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=25854&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BIOGRA.png" tvg-id="BLAZE" ,BLAZE HD 
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=395&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BIOGRA.png" tvg-id="BLAZE" ,BLAZE HD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=465&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BIOGRA.png" tvg-id="BLAZE" ,BLAZE SD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=3825&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/VJR.png" tvg-id="VIAJAR HD" ,VIAJAR FHD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=3817&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/VJR.png" tvg-id="VIAJAR HD" ,VIAJAR HD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=377&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CYM.png" tvg-id="CRIMEN+INVES" ,CRIMEN E INVESTIGACION HD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=407&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CYM.png" tvg-id="CRIMEN+INVES" ,CRIMEN E INVESTIGACION SD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=3835&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CACOC.png" tvg-id="CANAL COCINA" ,CANAL COCINA HD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=397&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CACOC.png" tvg-id="CANAL COCINA" ,CANAL COCINA SD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=3827&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DECASA.png" tvg-id="CANAL DECASA" ,CANAL DECASA HD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=398&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DECASA.png" tvg-id="CANAL DECASA" ,CANAL DECASA SD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=3828&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DIVINI.png" tvg-id="DIVINITY" ,Divinity SD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=3839&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NOVA.png" tvg-id="NOVA" ,NOVA HD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=453&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NOVA.png" tvg-id="NOVA" ,NOVA SD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=3854&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DKISS.png" tvg-id="DKISS" ,DKISS SD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=25866&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TEN.png" tvg-id="Ten" ,TEN SD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=25869&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BEMAD.png" tvg-id="BE MAD" ,BE MAD HD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=385&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BEMAD.png" tvg-id="BE MAD" ,BE MAD HD 
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=1607&t=live&f=ts
+#EXTINF:0, tvg-logo="https://github.com/horun87/picons/blob/master/orbe.png?raw=true" ,Canal Orbe 21
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=400&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NICK.png" tvg-id="NICKELODEON HD" ,NICKELODEON FHD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=3853&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NICK.png" tvg-id="NICKELODEON HD" ,NICKELODEON SD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=452&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BABY.png" tvg-id="BABY TV" ,BABY TV SD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=383&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BABY.png" tvg-id="BABY TV" ,BABY TV SD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=3822&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BABY.png" tvg-id="BABY TV" ,BABY TV SD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=463&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PLAYDC.png" tvg-id="DISNEY JR" ,DISNEY JR HD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=410&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PLAYDC.png" tvg-id="DISNEY JR" ,DISNEY JR SD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=3838&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PANDA.png" tvg-id="CANAL PANDA" ,CANAL PANDA HD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=401&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PANDA.png" tvg-id="CANAL PANDA" ,CANAL PANDA SD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=3830&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NICKJR.png" tvg-id="NICK JR" ,NICK JR HD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=451&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NICKJR.png" tvg-id="NICK JR" ,NICK JR SD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=3852&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCHXD.png" tvg-id="DISNEY XD" ,DISNEY XD HD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=411&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCH.png" tvg-id="DISNEY CH HD" ,DISNEY CHANNEL HD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=3837&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCH.png" tvg-id="DISNEY CH HD" ,DISNEY CHANNEL HD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=409&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BOING.png" tvg-id="BOING" ,BOING SD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=3826&t=live&f=ts
+#EXTINF:0, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CLANTV.png" tvg-id="CLAN  TVE" ,CLAN TVE HD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=403&t=live&f=ts
+#EXTINF:0, tvg-logo="https://github.com/horun87/picons/blob/master/MEZZO.png?raw=true" ,MEZZO 
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=464&t=live&f=ts
+#EXTINF:0, tvg-logo="https://github.com/horun87/picons/blob/master/MEZZO.png?raw=true" ,MEZZO 
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=446&t=live&f=ts
+#EXTINF:0, tvg-logo="https://github.com/horun87/picons/blob/master/MEZZOLIVE.png?raw=true" ,MEZZO LIVE
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=369&t=live&f=ts
+#EXTINF:0, tvg-logo="https://github.com/horun87/picons/blob/master/CLASSICA.png?raw=true" ,CLASSICA
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=404&t=live&f=ts
+#EXTINF:0, tvg-logo="https://github.com/horun87/picons/blob/master/13.png?raw=true" ,TRECE SD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=25853&t=live&f=ts
+#EXTINF:0, tvg-logo="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/canales/a8/10000296.png" tvg-id="CMM" ,CASTILLA LA MANCHA HD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=26059&t=live&f=ts
+#EXTINF:0, tvg-logo="https://github.com/horun87/picons/blob/master/Intereconomia.png?raw=true" ,INTERECONOMIA SD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=26060&t=live&f=ts
+#EXTINF:0, tvg-logo="https://github.com/horun87/picons/blob/master/24H.png?raw=true" ,CANAL 24 HORAS HD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=380&t=live&f=ts
+#EXTINF:0, tvg-logo="https://github.com/horun87/picons/blob/master/24H.png?raw=true" ,CANAL 24 HORAS HD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=462&t=live&f=ts
+#EXTINF:0, ,CANAL SUR 1 FHD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=25851&t=live&f=ts
+#EXTINF:0, ,CANAL SUR 2 
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=25850&t=live&f=ts
+#EXTINF:0, ,tvg-id="AndalucíaTV" ,CANAL ANDALUCIA TV SD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=25847&t=live&f=ts
+#EXTINF:0, ,ARAGON TV 
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=381&t=live&f=ts
+#EXTINF:0, ,ARAGON TV 
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=3820&t=live&f=ts
+#EXTINF:0, ,NOVELAS TV FHD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=26077&t=live&f=ts
+#EXTINF:0, ,FOX NEWS HD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=417&t=live&f=ts
+#EXTINF:0, ,Estrenos Taquilla 1
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=26143&t=live&f=ts
+#EXTINF:0, ,Estrenos Taquilla 2
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=26144&t=live&f=ts
+#EXTINF:0, ,Estrenos Taquilla 3
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=26145&t=live&f=ts
+#EXTINF:0, ,Estrenos Taquilla 4
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=26146&t=live&f=ts
+#EXTINF:0, ,Peliculas Action HD 1
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=26120&t=live&f=ts
+#EXTINF:0, ,Peliculas Action HD 2
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=26121&t=live&f=ts
+#EXTINF:0, ,Peliculas Action HD 3
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=26122&t=live&f=ts
+#EXTINF:0, ,Peliculas Action HD 4
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=26123&t=live&f=ts
+#EXTINF:0, ,Peliculas Action HD 5
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=26124&t=live&f=ts
+#EXTINF:0, ,Peliculas MARVEL 1 HD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=26129&t=live&f=ts
+#EXTINF:0, ,Peliculas MARVEL 2 HD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=26130&t=live&f=ts
+#EXTINF:0, ,Peliculas MARVEL 3 HD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=26131&t=live&f=ts
+#EXTINF:0, ,Peliculas MARVEL 4 HD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=26132&t=live&f=ts
+#EXTINF:0, ,Peliculas MARVEL 5 HD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=26133&t=live&f=ts
+#EXTINF:0, ,Peliculas de Ciencia ficcion HD 1
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=26134&t=live&f=ts
+#EXTINF:0, ,Peliculas de Ciencia ficcion HD 2 
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=26135&t=live&f=ts
+#EXTINF:0, ,Peliculas de Ciencia ficcion HD 3
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=26136&t=live&f=ts
+#EXTINF:0, ,Peliculas de Ciencia ficcion HD 4
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=26137&t=live&f=ts
+#EXTINF:0, ,Peliculas de Ciencia ficcion HD 5
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=26138&t=live&f=ts
+#EXTINF:0, ,Peliculas Accion HD 1
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=26114&t=live&f=ts
+#EXTINF:0, ,Peliculas Accion HD 2
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=26115&t=live&f=ts
+#EXTINF:0, ,Peliculas Accion HD 3
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=26116&t=live&f=ts
+#EXTINF:0, ,Peliculas Accion HD 4
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=26117&t=live&f=ts
+#EXTINF:0, ,Peliculas Accion HD 5
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=26118&t=live&f=ts
+#EXTINF:0, ,Peliculas Accion HD 6
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=26119&t=live&f=ts
+#EXTINF:0, ,Box Office 1
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=26104&t=live&f=ts
+#EXTINF:0, ,Box Office 2
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=26105&t=live&f=ts
+#EXTINF:0, ,Box Office 3
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=26106&t=live&f=ts
+#EXTINF:0, ,Box Office 4
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=26107&t=live&f=ts
+#EXTINF:0, ,Box Office 5
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=26108&t=live&f=ts
+#EXTINF:0, ,Box Office 6
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=26109&t=live&f=ts
+#EXTINF:0, ,Box Office 7
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=26110&t=live&f=ts
+#EXTINF:0, ,Box Office 8
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=26111&t=live&f=ts
+#EXTINF:0, ,Box Office 9
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=26112&t=live&f=ts
+#EXTINF:0, ,Box Office 10
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=26113&t=live&f=ts
+#EXTINF:0, ,Alquiler HD 1
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=26094&t=live&f=ts
+#EXTINF:0, ,Alquiler HD 2
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=26095&t=live&f=ts
+#EXTINF:0, ,Alquiler HD 3
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=26096&t=live&f=ts
+#EXTINF:0, ,Alquiler HD 4
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=26097&t=live&f=ts
+#EXTINF:0, ,Alquiler HD 5
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=26098&t=live&f=ts
+#EXTINF:0, ,Alquiler HD 6
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=26099&t=live&f=ts
+#EXTINF:0, ,Alquiler HD 7
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=26100&t=live&f=ts
+#EXTINF:0, ,Alquiler HD 8
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=26101&t=live&f=ts
+#EXTINF:0, ,Alquiler HD 9
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=26102&t=live&f=ts
+#EXTINF:0, ,Alquiler HD 10
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=26103&t=live&f=ts
+#EXTINF:0, ,MOVISTAR CINE 1 HD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=26088&t=live&f=ts
+#EXTINF:0, ,MOVISTAR CINE 2 HD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=26089&t=live&f=ts
+#EXTINF:0, ,MOVISTAR CINE 3 HD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=26090&t=live&f=ts
+#EXTINF:0, ,MOVISTAR CINE 4 HD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=26091&t=live&f=ts
+#EXTINF:0, ,MOVISTAR CINE 5 HD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=26092&t=live&f=ts
+#EXTINF:0, ,MOVISTAR CINE 6 HD
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=26093&t=live&f=ts
+#EXTINF:0, ,Peliculas Comedia HD 1
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=26125&t=live&f=ts
+#EXTINF:0, ,Peliculas Comedia HD 2
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=26126&t=live&f=ts
+#EXTINF:0, ,Peliculas Comedia HD 3
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=26128&t=live&f=ts
+#EXTINF:0, ,Peliculas Comedia HD 4
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=26127&t=live&f=ts
+#EXTINF:0, ,tvg-id="M. LaLiga 3 HD" ,M. LALIGA 3
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=26044&t=live&f=ts
+#EXTINF:0, ,tvg-id="M. LaLiga 3 HD" ,M. LALIGA 3
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=24927&t=live&f=ts
+#EXTINF:0, ,tvg-id="M. LaLiga 4" ,M. LALIGA 4
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=390&t=live&f=ts
+#EXTINF:0, ,tvg-id="M. LaLiga 5" ,M. LALIGA 5
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=24926&t=live&f=ts
+#EXTINF:0, ,tvg-id="M. LaLiga 6" ,M. LALIGA 6
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=24925&t=live&f=ts
+#EXTINF:0, ,tvg-id="M. LaLiga 7" ,M. LALIGA 7
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=393&t=live&f=ts
+#EXTINF:0, ,tvg-id="M. LaLiga 8" ,M. LALIGA 8
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=394&t=live&f=ts
+#EXTINF:0, ,tvg-id="M. LaLiga 9" ,M. LALIGA 9
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=24924&t=live&f=ts
+#EXTINF:0, ,tvg-id="M.LCAMPEON3" ,M. LIGA DE CAMPEONES 3
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=440&t=live&f=ts
+#EXTINF:0, ,tvg-id="M.LCAMPEON3" ,M. LIGA DE CAMPEONES 3
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=26081&t=live&f=ts
+#EXTINF:0, ,tvg-id="M.LCAMPEON4" ,M. LIGA DE CAMPEONES 4
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=441&t=live&f=ts
+#EXTINF:0, ,tvg-id="M.LCAMPEON4" ,M. LIGA DE CAMPEONES 4
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=26082&t=live&f=ts
+#EXTINF:0, ,tvg-id="M.LCAMPEON5" ,M. LIGA DE CAMPEONES 5
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=442&t=live&f=ts
+#EXTINF:0, ,tvg-id="M.LCAMPEON5" ,M. LIGA DE CAMPEONES 5
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=26083&t=live&f=ts
+#EXTINF:0, ,tvg-id="M.LCAMPEON6" ,M. LIGA DE CAMPEONES 6
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=443&t=live&f=ts
+#EXTINF:0, ,tvg-id="M.LCAMPEON6" ,M. LIGA DE CAMPEONES 6
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=26084&t=live&f=ts
+#EXTINF:0, ,tvg-id="M.LCAMPEON7" ,M. LIGA DE CAMPEONES 7
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=444&t=live&f=ts
+#EXTINF:0, ,tvg-id="M.LCAMPEON7" ,M. LIGA DE CAMPEONES 7
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=26085&t=live&f=ts
+#EXTINF:0, ,tvg-id="LALIGA TV BAR 3" ,LALIGA TV BAR 3
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=24930&t=live&f=ts
+#EXTINF:0, ,tvg-id="LALIGA TV BAR 4" ,LALIGA TV BAR 4
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=422&t=live&f=ts
+#EXTINF:0, ,tvg-id="M. DEPORTES 2 HD" ,M. DEPORTES 2
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=428&t=live&f=ts
+#EXTINF:0, ,tvg-id="M. DEPORTES 3" ,M. DEPORTES 3
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=429&t=live&f=ts
+#EXTINF:0, ,tvg-id="M. DEPORTES 4" ,M. DEPORTES 4
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=430&t=live&f=ts
+#EXTINF:0, ,tvg-id="M. DEPORTES 5" ,M. DEPORTES 5
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=431&t=live&f=ts
+#EXTINF:0, ,tvg-id="M. DEPORTES 6" ,M. DEPORTES 6
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=432&t=live&f=ts
+#EXTINF:0, ,tvg-id="M. DEPORTES 7" ,M. DEPORTES 7
+http://app.powerfhd.me/live/sup.php?z=997&u=942226247949517&s=596252977222622&id=433&t=live&f=ts
